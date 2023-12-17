@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/lazy_collections.iml" filepath="$PROJECT_DIR$/.idea/lazy_collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lazy_etl.iml" filepath="$PROJECT_DIR$/.idea/lazy_etl.iml" />
     </modules>
   </component>
 </project>
